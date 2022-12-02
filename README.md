@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript and C**
 
-- 👨‍💻 All of my projects are available at [laurasaporoso.it](laurasaporoso.it)
+- 👨‍💻 All of my projects are available at [laurasaporoso.it](https://laurasaporoso.it/)
 
 - 📫 How to reach me **laurasaporoso99@gmail.com**
 
