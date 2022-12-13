@@ -1,8 +1,9 @@
-![image](https://drive.google.com/uc?export=view&id=1XgDT1c06r5zvISHUEm11GPAQGPv-DbZ4)
+![image](https://drive.google.com/uc?export=view&id=1A3CxEtY6x5u8XTGiK2FiQ7aa_9eRA2mE)
 <h1 align="center">Hi 👋, I'm Laura Saporoso</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 <div  style="margin-bottom:390px;">
-<img align="right"  alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1OovezCfXMBcG5ueIlu1yPhTpupadg8WI">
+ 
+<!--<img align="right"  alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1OovezCfXMBcG5ueIlu1yPhTpupadg8WI">-->
  </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurasaporoso&label=Profile%20views&color=0e75b6&style=flat" alt="laurasaporoso" /> </p>
@@ -26,4 +27,4 @@
 <!--if i need a line space <br>
 
 ## -->
-![image](https://drive.google.com/uc?export=view&id=1OkOLloU8VxBTWwIV7to8om10bPdhR_Rs)
+![image](https://drive.google.com/uc?export=view&id=1xvF4_82rHUMQNqgpruXBPVJckvHMostG)
