@@ -31,4 +31,6 @@
 <!--if i need a line space <br>
 
 ## -->
+<p align="center"><a align="center" href="https://github.com/JaeSeoKim/badge42"><img align="center" src="https://badge42.vercel.app/api/v2/clbp7rtao00440gk10o4wz8xa/stats?cursusId=21&coalitionId=284" alt="lsaporos's 42 stats" /></a>
+
 ![image](https://drive.google.com/uc?export=view&id=1sOEfCQO9eCqBINMJdMsTPamMZdPmN-0L)
