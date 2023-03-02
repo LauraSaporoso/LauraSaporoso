@@ -1,4 +1,5 @@
-![image](https://drive.google.com/uc?export=view&id=1A3CxEtY6x5u8XTGiK2FiQ7aa_9eRA2mE)
+![image](https://drive.google.com/uc?export=view&id=1XgDT1c06r5zvISHUEm11GPAQGPv-DbZ4)
+
 <h1 align="center">Hi 👋, I'm Laura Saporoso</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 <div  style="margin-bottom:390px;">
