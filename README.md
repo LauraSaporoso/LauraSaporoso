@@ -12,8 +12,9 @@
 - 👨‍💻 All of my projects are available at [laurasaporoso.it](https://laurasaporoso.it/)
 
 - 📫 How to reach me **laurasaporoso99@gmail.com** 
+- <!--nope
 - <p align="left">💻 Follow me on <a href="https://www.facebook.com/laura.saporoso/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laura saporoso" height="30" width="40" /></a><a href="https://instagram.com/laura_saporoso" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laura_saporoso" height="30" width="40" /></a><a href="https://www.linkedin.com/in/laura-saporoso-a558a2167/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura saporoso" height="30" width="40" /></a>
-</p>
+</p>-->
 
 <!--nope<h3 align="left">My Skills</h3>-->
 ## My Skills
