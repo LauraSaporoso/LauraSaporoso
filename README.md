@@ -6,9 +6,9 @@
  
 <!--<img align="right"  alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1OovezCfXMBcG5ueIlu1yPhTpupadg8WI">-->
  </div>
-
+ <!--nope
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurasaporoso&label=Profile%20views&color=0e75b6&style=flat" alt="laurasaporoso" /> </p>
-
+-->
 - 👨‍💻 All of my projects are available at [laurasaporoso.it](https://laurasaporoso.it/)
 
 - 📫 How to reach me **laurasaporoso99@gmail.com** 
